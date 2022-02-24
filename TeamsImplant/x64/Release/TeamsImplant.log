@@ -1,0 +1,53 @@
+﻿  main.c
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\definitions.h(42,1): warning C4005: 'PAGE_EXECUTE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(12998): message : see previous definition of 'PAGE_EXECUTE'
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\definitions.h(43,1): warning C4005: 'PAGE_EXECUTE_READ': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(12999): message : see previous definition of 'PAGE_EXECUTE_READ'
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\definitions.h(44,1): warning C4005: 'PAGE_EXECUTE_READWRITE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(13000): message : see previous definition of 'PAGE_EXECUTE_READWRITE'
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\definitions.h(45,1): warning C4005: 'PAGE_EXECUTE_WRITECOPY': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(13001): message : see previous definition of 'PAGE_EXECUTE_WRITECOPY'
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\definitions.h(46,1): warning C4005: 'PAGE_NOACCESS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(12994): message : see previous definition of 'PAGE_NOACCESS'
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\definitions.h(47,1): warning C4005: 'PAGE_READONLY': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(12995): message : see previous definition of 'PAGE_READONLY'
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\definitions.h(48,1): warning C4005: 'PAGE_READWRITE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(12996): message : see previous definition of 'PAGE_READWRITE'
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\definitions.h(49,1): warning C4005: 'PAGE_WRITECOPY': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(12997): message : see previous definition of 'PAGE_WRITECOPY'
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\definitions.h(50,1): warning C4005: 'PAGE_GUARD': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(13002): message : see previous definition of 'PAGE_GUARD'
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\definitions.h(51,1): warning C4005: 'PAGE_NOCACHE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(13003): message : see previous definition of 'PAGE_NOCACHE'
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\definitions.h(52,1): warning C4005: 'PAGE_WRITECOMBINE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(13004): message : see previous definition of 'PAGE_WRITECOMBINE'
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\main.c(119,12): warning C4098: 'PopulateVxTable': 'void' function returning a value
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\main.c(121,12): warning C4098: 'PopulateVxTable': 'void' function returning a value
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\main.c(123,12): warning C4098: 'PopulateVxTable': 'void' function returning a value
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\main.c(125,12): warning C4098: 'PopulateVxTable': 'void' function returning a value
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\main.c(127,12): warning C4098: 'PopulateVxTable': 'void' function returning a value
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\main.c(129,12): warning C4098: 'PopulateVxTable': 'void' function returning a value
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\main.c(131,12): warning C4098: 'PopulateVxTable': 'void' function returning a value
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\main.c(133,12): warning C4098: 'PopulateVxTable': 'void' function returning a value
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\main.c(135,12): warning C4098: 'PopulateVxTable': 'void' function returning a value
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\main.c(137,12): warning C4098: 'PopulateVxTable': 'void' function returning a value
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\main.c(139,12): warning C4098: 'PopulateVxTable': 'void' function returning a value
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\main.c(150,12): warning C4047: 'return': 'PPEB' differs in levels of indirection from 'int'
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\main.c(159,33): warning C4244: 'function': conversion from 'SIZE_T' to 'unsigned int', possible loss of data
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\main.c(170,11): warning C4098: 'SCInject': 'void' function returning a value
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\main.c(206,23): warning C4013: 'UnhookingMainFunction' undefined; assuming extern returning int
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\main.c(213,79): warning C4113: 'FARPROC' differs in parameter lists from '_CreateRemoteThread'
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\main.c(213,79): warning C4047: '=': '_CreateRemoteThread' differs in levels of indirection from 'FARPROC'
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\main.c(214,79): warning C4113: 'FARPROC' differs in parameter lists from '_WriteProcessMemory'
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\main.c(214,79): warning C4133: '=': incompatible types - from 'FARPROC' to '_WriteProcessMemory'
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\main.c(215,72): warning C4113: 'FARPROC' differs in parameter lists from '_VirtualAlloc'
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\main.c(215,72): warning C4047: '=': '_VirtualAlloc' differs in levels of indirection from 'FARPROC'
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\main.c(216,81): warning C4113: 'FARPROC' differs in parameter lists from '_WaitForSingleObject'
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\main.c(216,81): warning C4133: '=': incompatible types - from 'FARPROC' to '_WaitForSingleObject'
+     Creating library C:\sektor7\StealthTeamsImplant\TeamsImplant\x64\Release\TeamsImplant.lib and object C:\sektor7\StealthTeamsImplant\TeamsImplant\x64\Release\TeamsImplant.exp
+  Generating code
+  Finished generating code
+  3 of 13 functions (23.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  TeamsImplant.vcxproj -> C:\sektor7\StealthTeamsImplant\TeamsImplant\x64\Release\TeamsImplant.dll

@@ -1,0 +1,44 @@
+﻿  main.c
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\definitions.h(42,1): warning C4005: 'PAGE_EXECUTE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(12998): message : see previous definition of 'PAGE_EXECUTE'
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\definitions.h(43,1): warning C4005: 'PAGE_EXECUTE_READ': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(12999): message : see previous definition of 'PAGE_EXECUTE_READ'
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\definitions.h(44,1): warning C4005: 'PAGE_EXECUTE_READWRITE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(13000): message : see previous definition of 'PAGE_EXECUTE_READWRITE'
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\definitions.h(45,1): warning C4005: 'PAGE_EXECUTE_WRITECOPY': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(13001): message : see previous definition of 'PAGE_EXECUTE_WRITECOPY'
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\definitions.h(46,1): warning C4005: 'PAGE_NOACCESS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(12994): message : see previous definition of 'PAGE_NOACCESS'
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\definitions.h(47,1): warning C4005: 'PAGE_READONLY': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(12995): message : see previous definition of 'PAGE_READONLY'
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\definitions.h(48,1): warning C4005: 'PAGE_READWRITE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(12996): message : see previous definition of 'PAGE_READWRITE'
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\definitions.h(49,1): warning C4005: 'PAGE_WRITECOPY': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(12997): message : see previous definition of 'PAGE_WRITECOPY'
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\definitions.h(50,1): warning C4005: 'PAGE_GUARD': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(13002): message : see previous definition of 'PAGE_GUARD'
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\definitions.h(51,1): warning C4005: 'PAGE_NOCACHE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(13003): message : see previous definition of 'PAGE_NOCACHE'
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\definitions.h(52,1): warning C4005: 'PAGE_WRITECOMBINE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(13004): message : see previous definition of 'PAGE_WRITECOMBINE'
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\main.c(82,12): warning C4098: 'PopulateVxTable': 'void' function returning a value
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\main.c(84,12): warning C4098: 'PopulateVxTable': 'void' function returning a value
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\main.c(86,12): warning C4098: 'PopulateVxTable': 'void' function returning a value
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\main.c(88,12): warning C4098: 'PopulateVxTable': 'void' function returning a value
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\main.c(90,12): warning C4098: 'PopulateVxTable': 'void' function returning a value
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\main.c(92,12): warning C4098: 'PopulateVxTable': 'void' function returning a value
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\main.c(94,12): warning C4098: 'PopulateVxTable': 'void' function returning a value
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\main.c(96,12): warning C4098: 'PopulateVxTable': 'void' function returning a value
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\main.c(98,12): warning C4098: 'PopulateVxTable': 'void' function returning a value
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\main.c(100,12): warning C4098: 'PopulateVxTable': 'void' function returning a value
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\main.c(102,12): warning C4098: 'PopulateVxTable': 'void' function returning a value
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\main.c(155,46): warning C4013: 'QueryMemoryProtections' undefined; assuming extern returning int
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\main.c(166,13): warning C4244: '+=': conversion from 'DWORD64' to 'DWORD', possible loss of data
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\main.c(175,84): warning C4142: 'QueryMemoryProtections': benign redefinition of type
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\main.c(245,1): warning C4047: 'initializing': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\main.c(283,12): warning C4047: 'return': 'PPEB' differs in levels of indirection from 'int'
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\main.c(292,33): warning C4244: 'function': conversion from 'SIZE_T' to 'unsigned int', possible loss of data
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\main.c(299,69): warning C4244: 'function': conversion from 'SIZE_T' to 'int', possible loss of data
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\main.c(339,23): warning C4013: 'UnhookingMainFunction' undefined; assuming extern returning int
+C:\sektor7\StealthTeamsImplant\TeamsImplant\TeamsImplant\main.c(275): warning C4716: 'InjectSCModuleStomp': must return a value
+  TeamsImplant.vcxproj -> C:\sektor7\StealthTeamsImplant\TeamsImplant\x64\Debug\TeamsImplant.exe
